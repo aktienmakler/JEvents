@@ -828,6 +828,7 @@ class iCalImport
 		$wtzdata["Greenwich Mean Time : London"]                      = "Europe/London";
 		$wtzdata["Monrovia, Reykjavik"]                               = "Africa/Abidjan";
 		$wtzdata["Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"]  = "Europe/Amsterdam";
+		$wtzdata["(UTC+01:00) Amsterdam, Berlin, Bern, Rom, Stockholm, Wien"]  = "Europe/Amsterdam";
 		$wtzdata["Belgrade, Bratislava, Budapest, Ljubljana, Prague"] = "Europe/Belgrade";
 		$wtzdata["Brussels, Copenhagen, Madrid, Paris"]               = "Europe/Brussels";
 		$wtzdata["West Central Africa"]                               = "Africa/Algiers";
